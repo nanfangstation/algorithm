@@ -2,8 +2,6 @@ package com.lydia.leetcode.array;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-
 /**
  * @author Lydia
  * @see https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
