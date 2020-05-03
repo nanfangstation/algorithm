@@ -39,13 +39,5 @@ public class SameTree {
         return isSameTree(p.right, q.right) && isSameTree(p.left, q.left);
     }
 
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
 
-        TreeNode(int x) {
-            val = x;
-        }
-    }
 }
